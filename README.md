@@ -6,9 +6,7 @@ A machine learning project for predicting stock prices and classifying data usin
 -Data preprocessing with pandas   
 
 -Logistic Regression for churn-like binary predictions  
-
--Decision Tree classifier with pruning to avoid overfitting  
-
+ 
 -Model evaluation with Accuracy, F1-score.
 
 
